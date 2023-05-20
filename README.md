@@ -1,3 +1,123 @@
+my configs:
+```text
+[
+  {
+    "title": "Studies",
+    "links": [
+      {
+        "label": "Notion",
+        "value": "https://www.notion.so/mehmet-kutay-bozkurt/School-0d5a790f920349d6879dded502811961"
+      },
+      {
+        "label": "TITC IA",
+        "value": "https://docs.google.com/document/d/1KxdJVjJomRx5hOWguQan2KoE_szLd919J-H7wKm--l0/edit"
+      },
+      {
+        "label": "TOK Exhibition",
+        "value": "https://docs.google.com/document/d/1PTDHHrO9TK1Gceb94oVAzfNCsCk32LsPbhzqehVrv6w/edit"
+      },
+      {
+        "label": "Managebac",
+        "value": "https://oaal.managebac.com/student"
+      },
+      {
+        "label": "BAL Blog",
+        "value": "https://drive.google.com/drive/u/0/folders/1SLxuNocZJHvuhhmWvX8wXhoyQOuFVHw7"
+      }
+    ]
+  },
+  {
+    "title": "Reddit",
+    "links": [
+      {
+        "label": "r/ibo",
+        "value": "https://www.reddit.com/r/ibo/"
+      },
+      {
+        "label": "r/notion",
+        "value": "https://www.reddit.com/r/notion"
+      },
+      {
+        "label": "r/photography",
+        "value": "https://www.reddit.com/r/photography/"
+      },
+      {
+        "label": "r/mechanicalpencils",
+        "value": "https://www.reddit.com/r/mechanicalpencils/"
+      },
+      {
+        "label": "r/doctorwhumour",
+        "value": "https://www.reddit.com/r/DoctorWhumour/"
+      },
+      {
+        "label": "r/cats",
+        "value": "https://www.reddit.com/r/cats"
+      }
+    ]
+  },
+  {
+    "title": "Music",
+    "links": [
+      {
+        "label": "music that i can listen 24/7",
+        "value": "https://music.apple.com/library/playlist/p.V7VYpdDH4qKOW2X"
+      },
+      {
+        "label": "howwy knight",
+        "value": "https://music.apple.com/library/playlist/p.1YeWgmLf7AZo2W9"
+      },
+      {
+        "label": "celeste",
+        "value": "https://music.apple.com/library/playlist/p.ZOAX70eivOp7EAQ"
+      },
+      {
+        "label": "new music",
+        "value": "https://music.apple.com/tr/playlist/new-music-mix/pl.pm-8e975ad16716041c8c4ab89518260658"
+      },
+      {
+        "label": "chill",
+        "value": "https://music.apple.com/tr/playlist/chill-mix/pl.pm-8e975ad16716041c49a07ff6dd7ddbaf"
+      }
+    ]
+  },
+  {
+    "title": "Sauce",
+    "links": [
+      {
+        "label": "Kenkoooo",
+        "value": "https://kenkoooo.com/atcoder/#/table/kuyta"
+      },
+      {
+        "label": "Codeforces",
+        "value": "https://codeforces.com/"
+      },
+      {
+        "label": "Github",
+        "value": "https://github.com/"
+      },
+      {
+        "label": "best problem ever",
+        "value": "https://atcoder.jp/contests/agc055/tasks/agc055_a"
+      },
+      {
+        "label": "real sauce",
+        "value": "https://github.com/FelixKratz/SketchyBar"
+      },
+      {
+        "label": "da real sauce",
+        "value": "https://github.com/koekeishiya/yabai"
+      }
+    ]
+  }
+]
+```
+pic: ./static/media/ign-0011.png
+bg-color: #2e3440
+def-color: #d8dee9
+#acc-color: #81a1c1
+#acc-color2: #5e81ac
+
+
 ![logo](https://github.com/PrettyCoffee/fluidity/blob/main/public/logo192.png)
 
 # Fluidity - An accordion based startpage
